@@ -20,15 +20,14 @@ export default function Nav() {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary bg-dark bg-gradient fixed-top">
         <div className="container-fluid">
-          <a className="navbar-brand ps-1" href="#">
+          <a className="navbar-brand ps-1" href="/">
             <h1 style={{ fontFamily: "'Dancing Script', cursive", fontSize: "36px" }}>Sowmya</h1>
           </a>
           <button className="navbar-toggler" type="button"
             onClick={toggleNavbar}
             aria-controls="navbarNavAltMarkup"
             aria-expanded={!isCollapsed}
-            aria-label="Toggle navigation"
-          >
+            aria-label="Toggle navigation">
             {isCollapsed ? (
               <span className="navbar-toggler-icon"></span> // default hamburger
             ) : (

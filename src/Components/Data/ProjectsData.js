@@ -1,4 +1,4 @@
-import portfolio_project from '../../Images/portfolio_project.jpg';
+// import portfolio_project from '../../Images/portfolio_project.jpg';
 import Portfolio_Project2 from '../../Images/Portfolio_Project2.jpg';
 import SowTrip from '../../Images/SowTrip.jpg';
 import SKart from '../../Images/SKart.png';
