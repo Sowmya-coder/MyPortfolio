@@ -28,7 +28,7 @@ export default function Contact (){
       <i className="bi bi-linkedin fs-1 text-info mb-3"></i>
       <h5>LinkedIn</h5>
       <p className="text-muted">linkedin.com/in/sowmya-godavarthi-a37b8a156</p>
-      <a href="https://www.linkedin.com/in/sowmya-godavarthi-a37b8a156/" className="btn btn-outline-info btn-sm mt-2" target="_blank">
+      <a href="https://www.linkedin.com/in/sowmya-godavarthi-a37b8a156/" className="btn btn-outline-info btn-sm mt-2" target="_blank" rel="noopener noreferrer">
         Connect
       </a>
     </div>
@@ -37,7 +37,7 @@ export default function Contact (){
       <i className="bi bi-github fs-1 text-info mb-3"></i>
       <h5>GitHub</h5>
       <p className="text-muted">github.com/Sowmya-coder</p>
-      <a href="https://github.com/Sowmya-coder" className="btn btn-outline-info btn-sm mt-2" target="_blank">
+      <a href="https://github.com/Sowmya-coder" className="btn btn-outline-info btn-sm mt-2" target="_blank" rel="noopener noreferrer">
         View Projects
       </a>
     </div>

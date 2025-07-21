@@ -12,7 +12,7 @@ export default function Projects() {
       {projectData.map((project) => (
         <div className="row g-0 bg-body-secondary position-relative mb-4 rounded overflow-hidden" key={project.name}>
           <div className="col-md-6 mb-md-0 p-md-4">
-            <a href={project.link} target="_blank" rel="noreferrer">
+            <a href={project.link} target="_blank" rel="noopener noreferrer">
               <img src={project.image} className="w-100 h-100 object-fit-cover" alt={project.name} />
             </a>
           </div>
@@ -21,12 +21,12 @@ export default function Projects() {
             <h5 className="gradient-text" style={projectName}>{project.name}</h5>
             <p className="text-muted">{project.description}</p>
             <p className="text-success fw-bold">{project.tech}</p>
-            {/* <a href={project.link} className="stretched-link" target="_blank" rel="noreferrer">View Project</a> */}
+            {/* <a href={project.link} className="stretched-link" target="_blank" rel="noopener noreferrer">View Project</a> */}
             <div className="d-flex gap-2">
-              <a href={project.link} className="btn btn-outline-primary" target="_blank" rel="noreferrer">
+              <a href={project.link} className="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">
                 <i className="fas fa-arrow-up-right-from-square fs-6"></i> View Project
               </a>
-              <a href={project.github} className="btn btn-outline-primary" target="_blank" rel="noreferrer">
+              <a href={project.github} className="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github fs-5"></i> GitHub
               </a>
             </div>
