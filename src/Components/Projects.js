@@ -23,7 +23,7 @@ export default function Projects() {
             <p className="text-success fw-bold">{project.tech}</p>
             {/* <a href={project.link} className="stretched-link" target="_blank" rel="noreferrer">View Project</a> */}
             <div className="d-flex gap-2">
-              <a href={project.link} className="btn btn-outline-primary stretched-link" target="_blank" rel="noreferrer">
+              <a href={project.link} className="btn btn-outline-primary" target="_blank" rel="noreferrer">
                 <i className="fas fa-arrow-up-right-from-square fs-6"></i> View Project
               </a>
               <a href={project.github} className="btn btn-outline-primary" target="_blank" rel="noreferrer">
