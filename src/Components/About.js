@@ -8,15 +8,15 @@ export default function About() {
                 <div className="col-lg-8 col-md-12">
                     <h2 className="mb-4">About Me</h2>
                     <p>
-                        Hi, my name is <strong className="text-info">Sowmya Godavarthi</strong>. I'm a Front-End React Developer with 4.5 years of industry experience,
-                        passionate about building clean, responsive UIs.
-                        I have a background in SAP C4C and enjoy creating elegant, user-focused applications.
+                       Hi, I’m <b className="text-info">Sowmya Godavarthi</b>, a React Front-End Developer with 4.5 years of experience, including over 2 years in modern JavaScript development. I specialize in building scalable, performance-driven web applications using React.js, clean component architecture, and responsive design principles.
                     </p>
                     <p>
-                        These days I'm focusing on growing my React and UI/UX skillset while building a strong personal portfolio.
-                    </p>
+                        My strengths include API integration, debugging, and deploying optimized applications through tools like Git, Docker, Netlify, and Vercel. I also bring a solid foundation in UI/UX best practices, ensuring every project is user-focused and visually polished.
 
-                    <p className="mt-4">Areas of Expertise:</p>
+                    </p>
+                    <p>With a background in CRM platforms like SAP C4C, I bridge technical development with business logic—creating meaningful and intuitive user experiences. Let’s connect, exchange ideas, and collaborate on exciting projects that blend design with purpose!</p>
+                    {/* <p>Let’s connect and explore new ideas, collaborate on exciting projects, or simply chat about tech and design!</p> */}
+                    <b className="mt-4">Areas of Expertise:</b>
                     <div className="row">
                         <div className="col-sm-7">
                             <ul className="list-unstyled">
