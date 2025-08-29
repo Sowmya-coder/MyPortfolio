@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 // import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 // import Home from './Home';
 // import Contact from './Contact';
-import SowmyaResume from '../Sowmya React Resume latest 2.pdf';
+import SowmyaResume from '../Resumes/Sowmya React CV new.pdf';
 
 export default function Nav() {
   const [theme, setTheme] = useState("dark");

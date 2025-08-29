@@ -8,7 +8,7 @@ export default function About() {
                 <div className="col-lg-8 col-md-12">
                     <h2 className="mb-4">About Me</h2>
                     <p>
-                       Hi, I’m <b className="text-info">Sowmya Godavarthi</b>, a React Front-End Developer with 4.5 years of experience, including over 2 years in modern JavaScript development. I specialize in building scalable, performance-driven web applications using React.js, clean component architecture, and responsive design principles.
+                       Hi, I’m <b className="text-info">Sowmya Godavarthi</b>, a React Front-End Developer with 4.10 years of experience, including over 4 years in modern JavaScript and React.js development. I specialize in building scalable, performance-driven web applications using React.js, clean component architecture, and responsive design principles.
                     </p>
                     <p>
                         My strengths include API integration, debugging, and deploying optimized applications through tools like Git, Docker, Netlify, and Vercel. I also bring a solid foundation in UI/UX best practices, ensuring every project is user-focused and visually polished.

@@ -5,15 +5,14 @@ const experienceData = [
     date: "Feb 2022 - Present",
     techStack: "JavaScript, React.js, HTML5, CSS, SAP C4C (CRM), Web Mashups, REST APIs, SAP ABAP, PDI SDK",
     points: [
-    "Worked on CRM platform implementation with a focus on B2B sales, service, and visit management cycles",
-    "Configured modules like Leads, Opportunities, Quotes, Orders, and Visits in SAP C4C to support customer workflows",
-    "Built and integrated custom Web Mashups (URL, HTML, Data) to extend CRM functionality using external APIs and UI enhancements",
-    "Used React.js and JavaScript to develop reusable components and enhance CRM dashboard interactivity",
-    "Customized Fiori-based CRM interfaces with embedded JavaScript and React logic for dynamic validations and client-specific personalization",
-    "Performed backend debugging and enhancements using SAP PDI SDK, contributing to scalable CRM solutions"
-
-
-    ]
+    "Delivered scalable full-stack solutions using React.js, Node.js, Express.js, and MongoDB for enterprise-grade web applications.",
+    "Designed and implemented RESTful APIs in Node.js and integrated with frontend via Axios and Fetch for dynamic data rendering. Built responsive, modular UI components in React.js with state management using Redux and Context API.",
+    "Collaborated with cross-functional teams (design, QA, backend) in Agile/Scrum environment to deliver sprint goals and meet release deadlines.",
+    "Optimized React rendering using memorization, lazy loading, and code-splitting to improve load time by ~35%. Enhanced UI/UX accessibility (WCAG 2.1 standards) and ensured cross-browser compatibility.",
+    "Implemented authentication/authorization flows with JWT and OAuth 2.0 for secure user access.",
+    "Worked on the end-to-end implementation and enhancement of the SAP C4C CRM platform, focusing on B2B sales, service, and visit management modules including Leads, Opportunities, Quotes, Orders, and Visits.",
+    "Used React.js and JavaScript to develop reusable components and enhance CRM dashboard interactivity."
+  ]
   },
   {
     name: "Teleperformance",
