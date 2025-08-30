@@ -3,7 +3,7 @@ const experienceData = [
     name: "Cognizant Technology Solutions",
     role: "React Developer",
     date: "Feb 2022 - Present",
-    techStack: "JavaScript, React.js, HTML5, CSS, SAP C4C (CRM), Web Mashups, REST APIs, SAP ABAP, PDI SDK",
+    techStack: "JavaScript, React.js, Node.js, Express.js, MongoDB, HTML5, CSS, SAP C4C (CRM), Web Mashups, REST APIs, SAP ABAP, PDI SDK",
     points: [
     "Delivered scalable full-stack solutions using React.js, Node.js, Express.js, and MongoDB for enterprise-grade web applications.",
     "Designed and implemented RESTful APIs in Node.js and integrated with frontend via Axios and Fetch for dynamic data rendering. Built responsive, modular UI components in React.js with state management using Redux and Context API.",

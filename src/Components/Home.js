@@ -40,8 +40,8 @@ export default function Home() {
                     <h4 className="pt-2 pt-md-4 pt-lg-5">I'm <span className="gradient-text display-4 fw-semibold" style={headerName}>{text}</span>
                         <span className="text-color-white blinking-cursor gradient-text display-5 fw-bold" style={headerName}>|</span>
                     </h4>
-                    <h4 className=" display-6 animate__animated animate__zoomIn">React Developer</h4>
-                    <p className="display-9 animate__animated animate__fadeInUp"> I'm a passionate Front-end React Developer with hands-on experience in creating user-friendly applications using React.js, Bootstrap, TailwindCSS and modern UI/Ux practices</p>
+                    <h4 className=" display-6 animate__animated animate__zoomIn">Full Stack MERN Developer | React.js | Node.js | MongoDB</h4>
+                    <p className="display-9 animate__animated animate__fadeInUp">I’m a passionate MERN Stack Developer with 5 years of experience in designing and developing end-to-end web applications, from responsive front-end interfaces in React.js to secure back-end services in Node.js & Express.js, and efficient data management in MongoDB. Skilled in modern UI/UX practices with Bootstrap and TailwindCSS, I specialize in creating applications that are scalable, user-friendly, and performance-driven.</p>
                     <div className="d-flex flex-wrap justify-content-center align-items-center gap-4 mt-5 mx-5 animate__animated animate__flipInX">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" />
@@ -55,6 +55,12 @@ export default function Home() {
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="GitHub" width="50" />
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="GitHub" width="50" />
                         {/* <img src="https://raw.githubusercontent.com/VincentGarreau/particles.js/master/img/logo.jpg" alt="GitHub" width="50" /> */}
+                        {/* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50"/> */}
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50"/>
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="REST API" width="50"/>
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="REST API" width="50"/>
+
 
                     </div>
                 </div>
